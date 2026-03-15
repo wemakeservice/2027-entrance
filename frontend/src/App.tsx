@@ -1,7 +1,7 @@
 import { useState, useEffect, useMemo } from 'react';
 import axios from 'axios';
 import { Search, MapPin, BookOpen, CheckCircle, XCircle, FileText, ArrowRightLeft, X } from 'lucide-react';
-import { University } from './types';
+import type { University } from './types';
 
 function App() {
   const [data, setData] = useState<University[]>([]);
