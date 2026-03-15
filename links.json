@@ -1,0 +1,316 @@
+{
+  "서울특별시": [
+    {
+      "name": "홍익대학교(서울)",
+      "drive_url": "https://drive.google.com/file/d/1uaoMOEJ8pKqzNTx8y4jXV2IioulogieG/view?usp=sharing"
+    },
+    {
+      "name": "한양대학교(서울)",
+      "drive_url": "https://drive.google.com/file/d/1xJvmUcdUIytLa2MZ0HgqVSf63UQAA1aa/view?usp=sharing"
+    },
+    {
+      "name": "한국체육대학교",
+      "drive_url": "https://drive.google.com/file/d/1J7v0jD2vkheHlPw_4-sy2SyRSTme1084/view?usp=drive_link"
+    },
+    {
+      "name": "한성대학교",
+      "drive_url": "https://drive.google.com/file/d/15M2e8iL41D8GDLBqj_R7lqy270Tc4aQ4/view?usp=sharing"
+    },
+    {
+      "name": "한국외국어대(서울)",
+      "drive_url": "https://drive.google.com/file/d/1_MoH8yd8v3qQ09dQU0i8czUrj0G1eIOQ/view?usp=drive_link"
+    },
+    {
+      "name": "한국성서대학교",
+      "drive_url": "https://drive.google.com/file/d/1dWYzMvF5cMR4iw5CA35fpMdHl-IdZgcq/view?usp=drive_link"
+    },
+    {
+      "name": "추계예술대학교",
+      "drive_url": "https://drive.google.com/file/d/1GRtyFXuESo2omHN2Zv4t8AFReowqTL1M/view?usp=sharing"
+    },
+    {
+      "name": "총신대학교",
+      "drive_url": "https://drive.google.com/file/d/1eBNXxpwDsO81lY_tAhC16t--MMcrK3fX/view?usp=sharing"
+    },
+    {
+      "name": "장로회신학대학",
+      "drive_url": "https://drive.google.com/file/d/1siHy82ccDBF7oTHFlOgsj4lbhaFVi7im/view?usp=sharing"
+    },
+    {
+      "name": "중앙대학교(서울)",
+      "drive_url": "https://drive.google.com/file/d/1RHN8AvdPwzcnBdckH7jjsW-tuLk7srmf/view?usp=sharing"
+    },
+    {
+      "name": "숙명여자대학교",
+      "drive_url": "https://drive.google.com/file/d/1qVap7g8oS4Ujker9mqiu6ObY43Qk7Q8B/view?usp=sharing"
+    },
+    {
+      "name": "숭실대학교",
+      "drive_url": "https://drive.google.com/file/d/1-m9aYWnLYhMJ3PinXSdw-2On3f0EOVeW/view?usp=sharing"
+    },
+    {
+      "name": "이화여자대학교",
+      "drive_url": "https://drive.google.com/file/d/17wG-oFOnZqNCZ_d93lykHqFgzssj8YYD/view?usp=sharing"
+    },
+    {
+      "name": "연세대학교(서울)",
+      "drive_url": "https://drive.google.com/file/d/1LpOyeTmrDJJTaYWJKSFvdl1yp4oZ1l_7/view?usp=sharing"
+    },
+    {
+      "name": "세종대학교",
+      "drive_url": "https://drive.google.com/file/d/1aJz9IurgoXzGBQZs4Kym1NUHxqt2gpGe/view?usp=sharing"
+    },
+    {
+      "name": "성신여자대학교",
+      "drive_url": "https://drive.google.com/file/d/1tMYwwLGrYgZxenHpLFjtWsFXu1eSF9ce/view?usp=sharing"
+    },
+    {
+      "name": "성공회대학교",
+      "drive_url": "https://drive.google.com/file/d/1e98TZTcTPyH50Go0BvdzaVH9oxfQrxgm/view?usp=sharing"
+    },
+    {
+      "name": "성균관대학교",
+      "drive_url": "https://drive.google.com/file/d/1zpwacDcN7F6r7bcquGB5Pewb-0zoe85S/view?usp=sharing"
+    },
+    {
+      "name": "서울한영대학교",
+      "drive_url": "https://drive.google.com/file/d/11YjQBuinAGwoVye2WeVm2jHRHjpLqQDW/view?usp=sharing"
+    },
+    {
+      "name": "서울시립대학교",
+      "drive_url": "https://drive.google.com/file/d/1uoz6cY6_G9PEaQOSOHN5f1fake0iIXIR/view?usp=sharing"
+    },
+    {
+      "name": "서울여자대학교",
+      "drive_url": "https://drive.google.com/file/d/10OHY2_DqxJBnArfCdEw4ZqnFt7NiFxth/view?usp=sharing"
+    },
+    {
+      "name": "서울대학교",
+      "drive_url": "https://drive.google.com/file/d/1vYX9x8l5kIDmP4eW2OO7fMillYlHD6R6/view?usp=sharing"
+    },
+    {
+      "name": "서울기독대학교",
+      "drive_url": "https://drive.google.com/file/d/1cw5YT0keCk6ql2XOBkGJIgKNcX-nGIdz/view?usp=sharing"
+    },
+    {
+      "name": "서울교육대학교",
+      "drive_url": "https://drive.google.com/file/d/16S1MsUHL3Jqbkzk3k5NcKz7TKIA2IDzj/view?usp=sharing"
+    },
+    {
+      "name": "서울과학기술대",
+      "drive_url": "https://drive.google.com/file/d/1vKSAi8ACqFzbg8bIM3lGehMXmHS3VgSy/view?usp=sharing"
+    },
+    {
+      "name": "서강대학교",
+      "drive_url": "https://drive.google.com/file/d/1e9doMOhSUzXlX5ZexJ4Iz6S8bpccmdaw/view?usp=sharing"
+    },
+    {
+      "name": "서경대학교",
+      "drive_url": "https://drive.google.com/file/d/118RyRb-2oGilTzZZRAbpjWk_b1xrRcXk/view?usp=sharing"
+    },
+    {
+      "name": "상명대학교(서울)",
+      "drive_url": "https://drive.google.com/file/d/1kZ_7C0Mx6g95-YWN0OEUNCS1116h2Q3T/view?usp=drive_link"
+    },
+    {
+      "name": "삼육대학교",
+      "drive_url": "https://drive.google.com/file/d/19YqdNfnnR82oHeiUFt6QCGXNfVBuwSru/view?usp=drive_link"
+    },
+    {
+      "name": "동덕여자대학교",
+      "drive_url": "https://drive.google.com/file/d/1UVf4xZw9YoglHGza3dMzPq0GvR065Iwa/view?usp=sharing"
+    },
+    {
+      "name": "명지대학교(서울)",
+      "drive_url": "https://drive.google.com/file/d/1nPut9MkpGEx9-4WiHdLI4GkT93_zJS0P/view?usp=drive_link, https://drive.google.com/file/d/1RLBazy9UmTyE44Jd7dbXwiRcJKxbQgF0/view?usp=drive_link"
+    },
+    {
+      "name": "동국대학교(서울)",
+      "drive_url": "https://drive.google.com/file/d/1aqxME0i0aYdqGVAbL6q7S824MnqDv1z9/view?usp=sharing"
+    },
+    {
+      "name": "덕성여자대학교",
+      "drive_url": "https://drive.google.com/file/d/1KX7mxu_r_DTYg3QXAMiu_pu6PM0Y3E0b/view?usp=sharing"
+    },
+    {
+      "name": "국민대학교",
+      "drive_url": "https://drive.google.com/file/d/1O0kt1cWjPkZwqji7EWPrxajab-6zF3Y7/view?usp=drive_link"
+    },
+    {
+      "name": "광운대학교",
+      "drive_url": "https://drive.google.com/file/d/1Rtt1tIUH65WQsOsuj-n-IWkZLKVsSkVg/view?usp=drive_link"
+    },
+    {
+      "name": "경희대학교",
+      "drive_url": "https://drive.google.com/file/d/156Pz7VFTtffcfrOm_aaoON4D9BX7ptgh/view?usp=sharing"
+    },
+    {
+      "name": "고려대학교(서울)",
+      "drive_url": "https://drive.google.com/file/d/1J7g6NicaKAsYFFGMZ2puWFyEHK6FF5eN/view?usp=drive_link"
+    },
+    {
+      "name": "건국대학교(서울)",
+      "drive_url": "https://drive.google.com/file/d/1e398d4xcMpIFv8zKXXDkzxbV7enFLfQz/view?usp=drive_link"
+    },
+    {
+      "name": "강서대학교",
+      "drive_url": "https://drive.google.com/file/d/1aexFMxsKp1UiQPcJNJUnGNnkEKUZTe2p/view?usp=drive_link"
+    },
+    {
+      "name": "감리교신학대학교",
+      "drive_url": "https://drive.google.com/file/d/1SIIyhLnWMctaqMmw4Rgf1U9t-z3H9MMZ/view?usp=sharing"
+    }
+  ],
+  "인천광역시": [
+    {
+      "name": "인하대학교",
+      "drive_url": "https://drive.google.com/file/d/1-XuZqSTGuTx2-RbVfJHBS4klPOe0Jey2/view?usp=sharing"
+    },
+    {
+      "name": "인천대학교",
+      "drive_url": "https://drive.google.com/file/d/1xsLST4CsY8X5TzCEkYYDIzF_ZcdhFCiS/view?usp=sharing"
+    },
+    {
+      "name": "인천가톨릭대학",
+      "drive_url": "https://drive.google.com/file/d/1cS38cONIFu3VfYjvCGNZiPXQ49k4sIhu/view?usp=drive_link"
+    },
+    {
+      "name": "경인교육대학교",
+      "drive_url": "https://drive.google.com/file/d/1F0C0xhAF_sFQsEETiuHBhTvieTSQdTeA/view?usp=sharing"
+    }
+  ],
+  "경기도": [
+    {
+      "name": "화성의과학대학",
+      "drive_url": "https://drive.google.com/file/d/1aVNMl4Ujlb8nH592byiNMGxQ5vvqq8sy/view?usp=sharing"
+    },
+    {
+      "name": "협성대학교",
+      "drive_url": "https://drive.google.com/file/d/1ZivmFMgkHweiy5X2jijPz-RHFIaWb_Xz/view?usp=sharing"
+    },
+    {
+      "name": "한신대학교",
+      "drive_url": "https://drive.google.com/file/d/1rwkLdFWhQcxbeEfI-Y8amdwzpanb0q2t/view?usp=sharing"
+    },
+    {
+      "name": "한양대학교(ERICA)",
+      "drive_url": "https://drive.google.com/file/d/1Rb3CZx4CotrMBIOkwW25wl4TgEstEK6j/view?usp=sharing"
+    },
+    {
+      "name": "한세대학교",
+      "drive_url": "https://drive.google.com/file/d/1SJk0csdQ2Q0-UUxsXa9dFRelLUeiZ04U/view?usp=sharing"
+    },
+    {
+      "name": "한국항공대학교",
+      "drive_url": "https://drive.google.com/file/d/1O4MdXFqtW4U5CRcxupp4_zpHdwSHO_Su/view?usp=drive_link"
+    },
+    {
+      "name": "한국외국어대(용인)",
+      "drive_url": "https://drive.google.com/file/d/16hMyBCSn8Dg9ICtMl6X-P49Agod2SqIg/view?usp=drive_link, https://drive.google.com/file/d/1_MoH8yd8v3qQ09dQU0i8czUrj0G1eIOQ/view?usp=drive_link"
+    },
+    {
+      "name": "한국공학대학교",
+      "drive_url": "https://drive.google.com/file/d/1kUOspmbqzQD6xZOIb2UbopVhY6xfhgd4/view?usp=drive_link"
+    },
+    {
+      "name": "평택대학교",
+      "drive_url": "https://drive.google.com/file/d/1L55ARc1Yup1JUNgfyozn1nF2QyhMRhX6/view?usp=sharing"
+    },
+    {
+      "name": "한경국립대학교",
+      "drive_url": "https://drive.google.com/file/d/1TWHZNMT-HtWA-V5XuYcImgMskg_owqwT/view?usp=drive_link"
+    },
+    {
+      "name": "중앙대학교(안성)",
+      "drive_url": "https://drive.google.com/file/d/1cZsnU4_ohFlEsoO0TaX5EIFiAR8LEKFr/view?usp=drive_link"
+    },
+    {
+      "name": "중앙승가대학교",
+      "drive_url": "https://drive.google.com/file/d/1BCVHBEZyAYu7s6kvHT2qJ4HcgtrmvpjV/view?usp=sharing"
+    },
+    {
+      "name": "칼빈대학교",
+      "drive_url": "https://drive.google.com/file/d/1KOeO0JMEXj9wZuz9c1_7CalYNrX24cny/view?usp=sharing"
+    },
+    {
+      "name": "차의과학대학교",
+      "drive_url": "https://drive.google.com/file/d/1Wji4V32yhGE3hJ1KvcltmSB9prhgyEhv/view?usp=sharing"
+    },
+    {
+      "name": "을지대학교",
+      "drive_url": "https://drive.google.com/file/d/1sWBRIDOXK6edEY4rEpBQbte9Rtmr-Ja6/view?usp=sharing"
+    },
+    {
+      "name": "용인대학교",
+      "drive_url": "https://drive.google.com/file/d/19oV_BEFRNy6XY9iyRGDFNPzAhxDNsyoL/view?usp=drive_link"
+    },
+    {
+      "name": "아주대학교",
+      "drive_url": "https://drive.google.com/file/d/1uhAdTryVckSsH_iQUw18DrdYFW-GaH7F/view?usp=sharing"
+    },
+    {
+      "name": "안양대학교",
+      "drive_url": "https://drive.google.com/file/d/1jUNIAMNT_iZkEcZWrIeaUgiEe74cdtUS/view?usp=sharing"
+    },
+    {
+      "name": "아신대학교",
+      "drive_url": "https://drive.google.com/file/d/1mcZr3BuSiK7Vg_XrNcSObdqfEaI-0tRh/view?usp=sharing"
+    },
+    {
+      "name": "수원대학교",
+      "drive_url": "https://drive.google.com/file/d/1GkU8oAkdsRUnd3mttV5jKCugV46EwX1W/view?usp=sharing"
+    },
+    {
+      "name": "신한대학교",
+      "drive_url": "https://drive.google.com/file/d/1hZj4ahBYnNMiarpKxvQiL2Rd-lCbfdRf/view?usp=sharing"
+    },
+    {
+      "name": "수원가톨릭대학",
+      "drive_url": "https://drive.google.com/file/d/1R8gM0erVhRTLItdEtIprylKiQ5OBqDql/view?usp=sharing"
+    },
+    {
+      "name": "성결대학교",
+      "drive_url": "https://drive.google.com/file/d/1nieRG2giVUcZvpW2kmOxiEarJbzZcU9T/view?usp=sharing"
+    },
+    {
+      "name": "서울장신대학교",
+      "drive_url": "https://drive.google.com/file/d/1WNoLBbCgrpy0vtjdRTYY8tkRwTpiTAOQ/view?usp=sharing"
+    },
+    {
+      "name": "서울신학대학교",
+      "drive_url": "https://drive.google.com/file/d/1z6az0ymhFiqgqXZzZS3ktD8FVgLlm3__/view?usp=sharing"
+    },
+    {
+      "name": "루터대학교",
+      "drive_url": "https://drive.google.com/file/d/1g8LTIpN_hXP2hJNLXRhHyxB98Du4HL7G/view?usp=sharing"
+    },
+    {
+      "name": "명지대학교(용인)",
+      "drive_url": "https://drive.google.com/file/d/1RLBazy9UmTyE44Jd7dbXwiRcJKxbQgF0/view?usp=sharing"
+    },
+    {
+      "name": "대진대학교",
+      "drive_url": "https://drive.google.com/file/d/16ehJ7cQFdzQMItmkeJVqulJvrms8Tmtf/view?usp=drive_link"
+    },
+    {
+      "name": "단국대학교(죽전)",
+      "drive_url": "https://drive.google.com/file/d/1tXVnthoiNDkhFhNlr6Q33sm0U3lzdk-U/view?usp=sharing"
+    },
+    {
+      "name": "강남대학교",
+      "drive_url": "https://drive.google.com/file/d/18Xqw3z8yLWpWHS2ZFEEhXezQM4WYMwRN/view?usp=drive_link"
+    },
+    {
+      "name": "경기대학교",
+      "drive_url": "https://drive.google.com/file/d/1NR0yTCwGdLL5eWxB-44Y2B7d5Ywp6zOq/view?usp=sharing"
+    },
+    {
+      "name": "가톨릭대학교",
+      "drive_url": "https://drive.google.com/file/d/1_ELbVWLh8EppkFira97uHISfgRqiPRUj/view?usp=drive_link"
+    },
+    {
+      "name": "가천대학교",
+      "drive_url": "https://drive.google.com/file/d/1WkNxnBDeFhB00xggsC9835JETNuPQnwP/view?usp=drive_link"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+# Dependency directories
+node_modules/
+frontend/node_modules/
+jspm_packages/
+web_modules/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Build outputs
+dist/
+frontend/dist/
+build/
+
+# Local configuration
+.vscode/
+.idea/
+*.local
+.DS_Store
+
+# Data & Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# (Optional) Large PDF Data folders
+# 만약 PDF 원본 파일들을 GitHub에 올리지 않으려면 아래 주석을 해제하세요.
+# 서울특별시/
+# 인천광역시/
+# 경기도/
+# ... (기타 지역 폴더들)
