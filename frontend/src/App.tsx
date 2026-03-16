@@ -20,7 +20,8 @@ function App() {
   const [showCompareModal, setShowCompareModal] = useState(false);
 
   useEffect(() => {
-    axios.get('http://localhost:8000/api/universities')
+    const backendUrl = `http://${window.location.hostname}:8000/api/universities`;
+    axios.get(backendUrl)
       .then(res => {
         setData(res.data.data);
         setLoading(false);
