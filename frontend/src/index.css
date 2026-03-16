@@ -64,14 +64,16 @@ body {
 .main-content {
   display: flex;
   flex-direction: column;
-  padding: 1.5rem 1rem;
-  gap: 2rem;
+  padding: 1rem;
+  gap: 1.5rem;
 }
 
 @media (min-width: 768px) {
   .main-content {
     flex-direction: row;
     align-items: flex-start;
+    padding: 1.5rem 1rem;
+    gap: 2rem;
   }
 }
 
@@ -86,11 +88,38 @@ body {
   width: 100%;
 }
 
+/* 모바일에서 필터 숨기기 기능을 위한 클래스 */
+.filter-panel.hidden-mobile {
+  display: none;
+}
+
 @media (min-width: 768px) {
   .filter-panel {
     width: 280px;
     position: sticky;
     top: 100px;
+    display: block !important; /* 데스크톱에서는 항상 표시 */
+  }
+}
+
+.mobile-filter-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  width: 100%;
+  padding: 0.75rem;
+  background: var(--white);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  font-weight: 600;
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 768px) {
+  .mobile-filter-toggle {
+    display: none;
   }
 }
 
@@ -246,11 +275,18 @@ body {
 .uni-actions {
   margin-top: auto;
   display: flex;
+  flex-direction: column; /* 모바일에서 세로 배치 */
   gap: 0.5rem;
 }
 
+@media (min-width: 480px) {
+  .uni-actions {
+    flex-direction: row; /* 넓은 모바일/태블릿 이상에서 가로 배치 */
+  }
+}
+
 .btn {
-  flex: 1;
+  width: 100%;
   padding: 0.75rem;
   border: none;
   border-radius: 8px;

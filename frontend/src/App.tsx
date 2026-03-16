@@ -13,6 +13,7 @@ function App() {
   const [selectedType, setSelectedType] = useState('전체');
   const [hasMinScore, setHasMinScore] = useState('전체');
   const [hasInterview, setHasInterview] = useState('전체');
+  const [showMobileFilters, setShowMobileFilters] = useState(false);
 
   // Compare State
   const [compareList, setCompareList] = useState<University[]>([]);
@@ -64,7 +65,15 @@ function App() {
       </header>
 
       <main className="main-content">
-        <aside className="filter-panel">
+        <button 
+          className="mobile-filter-toggle"
+          onClick={() => setShowMobileFilters(!showMobileFilters)}
+        >
+          {showMobileFilters ? <><X size={18}/> 필터 닫기</> : <><Search size={18}/> 조건별 필터 검색</>}
+        </button>
+
+        <aside className={`filter-panel ${!showMobileFilters ? 'hidden-mobile' : ''}`}>
+
           <div className="filter-group">
             <h3>대학명 검색</h3>
             <input 
