@@ -20,17 +20,8 @@ function App() {
   const [showCompareModal, setShowCompareModal] = useState(false);
 
   useEffect(() => {
-    // 현재 접속한 프로토콜과 호스트를 기반으로 백엔드 주소 설정
-    const protocol = window.location.protocol;
-    const hostname = window.location.hostname;
-    
-    // 로컬 개발 환경이나 내부 IP 접속인 경우 8000 포트 사용
-    // 만약 프로덕션(pages.dev)이라면 별도의 백엔드 도메인이 필요함
-    const backendUrl = (hostname === 'localhost' || hostname.includes('192.168.') || hostname.includes('10.'))
-      ? `${protocol}//${hostname}:8000/api/universities`
-      : `https://[여기에_실제_백엔드_도메인을_넣어주세요]/api/universities`;
-
-    axios.get(backendUrl)
+    // Cloudflare Pages Functions를 사용하므로 상대 경로로 호출
+    axios.get('/api/universities')
       .then(res => {
         setData(res.data.data);
         setLoading(false);
